@@ -40,7 +40,7 @@ The lab uses a Marvel-themed structure (Avengers, X-Men, Fantastic Four) to repr
 - Jean Grey/jgrey26S
 - Johnny Storm/jstorm26S
 - Sue Storm/jstorm26S
-- 
+- Reed Richards/rrichards26S
 
 ### Groups
 - G_Avengers26S
