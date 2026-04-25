@@ -75,11 +75,23 @@ The lab uses a Marvel-themed structure (Avengers, X-Men, Fantastic Four) to repr
 ### Organizational Units
 ![OUs](Screenshots/organizational-units.png)
 
-### Users
-![Users](Screenshots/users-avengers-xmen.png)
+### Xmen Users
+![Users](Screenshots/users-xmen.png)
 
-### Groups
-![Groups](Screenshots/groups-security.png)
+### Fantastic 4 Users
+![Users](Screenshots/users-fantastic4.png)
+
+### Avengers Users
+![Users](Screenshots/users-avengers.png)
+
+### Group Xmen
+![Groups](Screenshots/groups-xmen.png)
+
+### Group Fantastic 4
+![Groups](Screenshots/groups-fantastic4.png)
+
+### Group Avengers
+![Groups](Screenshots/groups-avengers.png)
 
 ### DHCP Scope
 ![DHCP](Screenshots/server2-dhcp-scope.png)
