@@ -73,25 +73,25 @@ The lab uses a Marvel-themed structure (Avengers, X-Men, Fantastic Four) to repr
 ## 5. Screenshots
 
 ### Organizational Units
-![OUs](screenshots/organizational-units.png)
+![OUs](Screenshots/organizational-units.png)
 
 ### Users
-![Users](screenshots/users-avengers-xmen.png)
+![Users](Screenshots/users-avengers-xmen.png)
 
 ### Groups
-![Groups](screenshots/groups-security.png)
+![Groups](Screenshots/groups-security.png)
 
 ### DHCP Scope
-![DHCP](screenshots/server2-dhcp-scope.png)
+![DHCP](Screenshots/server2-dhcp-scope.png)
 
 ### Client IP Configuration
-![IPConfig](screenshots/windows10-ipconfig.png)
+![IPConfig](Screenshots/windows10-ipconfig.png)
 
 ### File Shares
-![Shares](screenshots/server3-file-shares.png)
+![Shares](Screenshots/server3-file-shares.png)
 
 ### Folder Redirection
-![Folder Redirection](screenshots/folder-redirection.png)
+![Folder Redirection](Screenshots/folder-redirection.png)
 
 ---
 
