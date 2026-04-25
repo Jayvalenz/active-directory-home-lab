@@ -1,11 +1,22 @@
-# active-directory-home-lab
-Windows Server lab with AD DS, DNS, DHCP, and File Services using a Marvel-themed domain structure
 # Marvel-Themed Active Directory Lab (AD DS + DNS + DHCP)
+Windows Server lab with AD DS, DNS, DHCP, and File Services using a Marvel-themed domain structure
+
 
 ## 1. Overview
 This project is a Windows Server home lab built to simulate a small enterprise environment using Active Directory, DNS, DHCP, and File Services.
 
-The lab uses a Marvel-themed structure (Avengers, X-Men, Fantastic Four) to represent organizational units, users, and security groups.
+To simulate a real enterprise structure, departments were modeled using Marvel teams:
+
+- Avengers → Department A
+- X-Men → Department B
+- Fantastic Four → Department C
+
+Each group includes:
+- Dedicated users
+- Security groups
+- Organizational Units (OUs)
+
+This demonstrates how logical grouping improves identity and access management in Active Directory.
 
 ---
 
@@ -25,6 +36,13 @@ The lab uses a Marvel-themed structure (Avengers, X-Men, Fantastic Four) to repr
 ---
 
 ## 3. Network Architecture
+
+This environment simulates a multi-server enterprise network where:
+- The Domain Controller handles authentication and DNS
+- A dedicated DHCP server manages IP address assignment
+- A file server provides centralized storage
+- A client machine joins the domain and consumes all services
+  
 ![Network Diagram](Diagrams/network-diagram.png)
 
 ---
@@ -122,11 +140,15 @@ The lab uses a Marvel-themed structure (Avengers, X-Men, Fantastic Four) to repr
 
 ---
 
-## 7. Key Takeaways
-- DNS is critical for Active Directory functionality
-- DHCP simplifies client configuration
-- Organizational structure improves access control
-- File services and folder redirection centralize data management
+## 7. Real-World Relevance
+
+This lab reflects real enterprise infrastructure where:
+- Active Directory manages authentication and authorization
+- DNS enables internal name resolution
+- DHCP automates network configuration
+- File servers centralize user data
+
+These services form the foundation of most corporate IT environments.
 
 ---
 
