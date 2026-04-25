@@ -24,6 +24,11 @@ The lab uses a Marvel-themed structure (Avengers, X-Men, Fantastic Four) to repr
 
 ---
 
+## 3. Network Architecture
+![Network Diagram](Diagrams/network-diagram.png)
+
+---
+
 ## 3. Active Directory Design
 
 ### Organizational Units
